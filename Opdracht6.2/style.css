@@ -1,0 +1,21 @@
+.containers {
+    background-color: lightgray;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.items {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin: 10px;
+}
+.item2{
+    background-color: black;
+}
+.item3{
+    background-color: red;
+}
+.item4{
+    background-color: green;
+}
